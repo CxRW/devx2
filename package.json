@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "consolidate": "^0.14.1",
+    "csurf": "^1.8.3",
+    "dont-sniff-mimetype": "^1.0.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "forever": "^2.0.0",
+    "helmet": "^2.0.0",
+    "marked": "0.3.9",
+    "mongodb": "^5.7.0",
+    "needle": "2.2.4",
+    "node-esapi": "0.0.1",
+    "serve-favicon": "^2.3.0",
+    "swig": "^1.4.2",
+    "ua-parser-js": "0.7.26",
+    "underscore": "^1.8.3"
+  },
+  "description": "SCS Examples to be cautious of... and protected by Checkmarx for...",
+  "devDependencies": {
+    "async": "^2.0.0-rc.4",
+    "grunt": "^1.0.1"
+  },
+  "main": "server.js",
+  "name": "SupplyChainSecurity",
+  "private": false,
+  "scripts": {},
+  "version": "1.0.0"
+}
